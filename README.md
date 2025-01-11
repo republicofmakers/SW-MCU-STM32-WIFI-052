@@ -1,6 +1,6 @@
 # SW-MCU-STM32-WIFI-052
 
-Here is simple WIFI test code to control a GPIO pin.<br>
+Here is simple WIFI test code to control a GPIO pin  using ESP32-01S module and STM32F103.<br>
 You can use this code share any type of data from stm32 to another device.
 
 Control Led on your browser:
